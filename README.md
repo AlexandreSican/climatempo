@@ -20,4 +20,8 @@ API: pesquisa e uso de json retornado da Api do OpenWeather
 
 Fetch e promisse
 
-Acesse em: https://alexandresican.github.io/climatempo/
+Acesse em: <a href="https://alexandresican.github.io/climatempo/" target="blank">Aqui</a>
+
+# Página
+
+<img src="https://github.com/AlexandreSican/images/blob/main/clima.jpg?raw=true"/>
